@@ -3,20 +3,20 @@ const DefaultResumeData = {
 	position: "Sofware Developer",
 	contactInformation: "+1-555-0100",
 	email: "wilbert.baybay@gmail.com",
-	address: "San Francisco, CA",
+	address: "Metro Manila, Philippines",
 	profilePicture: "",
 	socialMedia: [
 		{
 			socialMedia: "Github",
-			link: "github.com//bedivere-lea",
+			link: "github.com//wilbert-baybay",
 		},
 		{
 			socialMedia: "LinkedIn",
-			link: "linkedin.com/in/bedivere-lea",
+			link: "linkedin.com/in/wilbert-baybay",
 		},
 		{
 			socialMedia: "Website",
-			link: "bedivere-lea.github.io",
+			link: "wilbert-baybay.github.io",
 		},
 	],
 	summary:
@@ -92,7 +92,7 @@ const DefaultResumeData = {
 			skills: ["Public Speaking", "Writing", "Research"],
 		},
 	],
-	languages: ["English", "Hindi"],
+	languages: ["English", "Filipino"],
 	certifications: [
 		"Certified Web Professional-Web Developer",
 		"Java Development Certified Professional",
